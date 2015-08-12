@@ -9,4 +9,4 @@ mechanism - but posting tweets to a project-specific private account is a great
 replacement for an SMS alerting system, and with bonus rate-limiting if things
 massively break ;)
 
-`imon` requires [stdlib.sh](/srcshelton/stdlib.sh), as well as [tweet.pl](/srcshelton/tweet.pl) for alerting purposes.
+`imon` requires [stdlib.sh](https://github.com/srcshelton/stdlib.sh), as well as [tweet.pl](https://github.com/srcshelton/tweet.pl) for alerting purposes.
